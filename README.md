@@ -11,7 +11,7 @@ I enjoy learning by building projects and solving practical problems with techno
 * **SQL / MySQL** — data querying, aggregation, filtering, grouping, joins, and financial analysis
 * **Python** — programming fundamentals, data analysis, and automation
 * **Data Analysis** — revenue, profit, profit margin, transaction, and business-data analysis
-* **Linux** — command line, system administration fundamentals, and troubleshooting
+* **Linux** — command line, system administration fundamentals
 * **Networking** — networking fundamentals and practical lab experience
 * **AI / ML** — currently learning machine learning and the fundamentals behind large language models
 
